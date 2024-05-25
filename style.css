@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 80vw;
+}
+.logo{
+    font-size: 3rem;
+}
+.navbar{
+    display:flex;
+    height: 67px;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+.topleft{
+    width: 50%;
+}
+.topright{
+    width: 50%;
+}
+.section1{
+    max-height:100vh;
+}
+.section1 h1{
+    font-size: 2rem;
+    color:rgb(68, 99, 202);
+}
+img{
+    width:550px;    
+}
+.dumbellimg{
+    width:150px; 
+    height:150px;
+}
+.topright .gyming{
+    width:566px;
+    height:566px;
+}
+.section2 h1{
+    font-size: 2.5rem;
+}
+.section2 p{
+    padding:0 8vw;
+    text-align: center;
+}
+.section2{  
+    padding:103px;
+
+}
+.box{
+    margin:12px 22px ; 
+    min-width:20vw;
+    border: 2px solid rgb(68, 99, 202);
+    border-radius: 8px;
+    text-align: center;
+    padding:8px 0;
+}
+.box ul{
+    list-style: none;
+}
+.box ul li{
+    margin: 12px 2px;
+}
+.highlighted{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+.box h2{
+    font-size: 2rem;
+    padding: 15px 0;
+}
+footer{
+    padding:23px;
+    text-align: center;
+}
+body{
+    background-color: rgb(58, 3, 3);
+    color:azure
+ }
